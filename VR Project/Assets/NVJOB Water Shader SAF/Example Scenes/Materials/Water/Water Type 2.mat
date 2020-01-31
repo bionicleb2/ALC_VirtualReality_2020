@@ -115,7 +115,7 @@ Material:
     - _Brightness: 1
     - _BumpScale: 1
     - _Contrast: 1
-    - _ContrastMt: 0.13
+    - _ContrastMt: 0.1
     - _Cutoff: 0.52
     - _Cycle: 3
     - _Depth: 2.2
@@ -131,7 +131,7 @@ Material:
     - _FadeLimit: 0.1
     - _GlossAmount: 0.03
     - _GlossMapScale: 1
-    - _Glossiness: 0.95
+    - _Glossiness: 0.89
     - _GlossyReflections: 1
     - _Intensity: 2
     - _IntensityMicrowave: 0.68
@@ -141,8 +141,8 @@ Material:
     - _IntensityRef: 2.3
     - _InvFade: 0
     - _MainDetailFlow: 1
-    - _MainDetailScale: 1
-    - _Metallic: 0.95
+    - _MainDetailScale: 1.83
+    - _Metallic: 0.478
     - _MicrowaveScale: 1
     - _MinuteDetailIntensity: 1.455
     - _MinuteDetailScrollSpeed: 0.089
